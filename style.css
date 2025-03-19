@@ -1,0 +1,37 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+.container{
+    margin: 150px auto;
+    background-color: brown;
+    width: 500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    color: azure;
+}
+.buttons{
+    margin: 20px;
+}
+.b1{
+    width: 150px;
+    background-color: chocolate;
+    font-size: 20px;
+}
+.b2{
+    width: 150px;
+    background-color: yellow;
+    font-size: 20px;
+}
+.b3{
+    width: 150px;
+    background-color: violet;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    color: sandybrown;
+}
